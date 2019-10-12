@@ -1,5 +1,11 @@
 # LibraryApp
 
+Conception et Developement d’une application Web de gestion librarie universitaire. (Partie Frontend)
+
+Outils : Spring Boot, Angular , Hibernate, Spring Data JPA, Spring REST, Mysql.
+
+Projet en collaboration avec Youssef Tarzi: https://github.com/yousseftarzi
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
 ## Development server
